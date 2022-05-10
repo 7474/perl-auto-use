@@ -1,4 +1,4 @@
-# perl-auto-use 
+ # perl-auto-use 
 ![automation](https://user-images.githubusercontent.com/31027514/77855649-aa544b80-722c-11ea-9de8-bfe20e23079a.png)
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
@@ -22,6 +22,15 @@ vscode extention for perl auto use
   - Multiple directory can be specified
     - Separate with white space
     - For cpan module and test module etc
+
+## Usage Command
+
+- `Scan perl module files`
+    - Scan Perl module it can be complemented
+- `Auto use (exec after scanning)`
+    - Complement `use` function automatically
+
+See also Sample!
 
 ## Sample
 ![test](https://user-images.githubusercontent.com/31027514/77447249-d178da80-6e32-11ea-860f-e982c8b0570e.gif)
